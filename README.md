@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safaac&label=Profile%20views&color=0e75b6&style=flat" alt="safaac" /> </p>
 
-- 🌱 I’m currently learning **Java Frameworks and JavaScript**
+- 🌱 I’m currently learning **Java Frameworks**
 
 - 👨‍💻 All of my projects are available at [safaac.github.io](safaac.github.io)
 
-- 💬 Ask me about **Java, HTML, CSS, Java EE**
+- 💬 Ask me about **Java, Spring boot, Microservices, RestAPI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
